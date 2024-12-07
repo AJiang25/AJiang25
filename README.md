@@ -1,4 +1,28 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🔭 I'm currently seeking internships, especially in the New York City Metropolitan area.
+- 🧑‍💼 I previously worked at Amazon Advertising as a SDE Intern (2 times)
+- 💖 I'm interested in:
+  - ⚡ Learning more about Machine Learning and its applications in medicine
+  - 📽️ Kdramas and TV Shows (Modern Family kind of guy)
+  - 🐬 Swimming
+  - 🎮 Mobile Games
+- 🦋 MBTI: INTP
+- 📫 How to reach me: jiangarnoldt@gmail.com
+- 💬 Ask me about anything u like. I will be more than glad to make friends with you!
+<!--
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **AJiang25/AJiang25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
