@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently seeking internships, especially in the New York City Metropolitan area.
+- 🔭 I'm currently seeking full-time jobs, especially in the New York City Metropolitan area.
 - 🧑‍💼 I previously worked at Amazon Advertising as a SDE Intern (3 times)
 - 💖 I'm interested in:
   - ⚡ Learning more about Machine Learning and its applications in medicine
