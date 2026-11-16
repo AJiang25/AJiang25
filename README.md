@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I'm currently seeking full-time jobs, especially in the New York City Metropolitan area.
-- 🧑‍💼 I previously worked at Amazon Advertising as a SDE Intern (3 times)
-- 💖 I'm interested in:
-  - ⚡ Learning more about Machine Learning and its applications in medicine
-  - 📽️ Kdramas and TV Shows (Modern Family kind of guy)
-  - 🐬 Swimming
-  - 🎮 Mobile Games
-- 🦋 MBTI: INTP
-- 📫 How to reach me: jiangarnoldt@gmail.com
-- 💬 Ask me about anything u like. I will be more than glad to make friends with you!
+- I'm currently seeking full-time jobs, especially in the New York City Metropolitan area.
+- I currently work at Amazon Advertising as a fulltime SDE and was a former SDE Intern (3 times)
+-  I'm interested in:
+  -  Learning more about Machine Learning and its applications in medicine
+  -  Kdramas and TV Shows (Modern Family kind of guy)
+  -  Swimming
+  -  Mobile Games
+-  How to reach me: jiangarnoldt@gmail.com
+-  Ask me about anything u like. I will be more than glad to make friends with you!
 <!--
 
 Here are some ideas to get you started:
